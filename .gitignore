@@ -1,0 +1,17 @@
+**/node_modules/
+**/target/
+**/dist/
+**/.local/
+**/.env
+**/.env.*
+!**/.env.example
+**/.idea/
+**/.run/
+*.iml
+*.zip
+*.code-workspace
+*.cmd
+**/.idea/workspace.xml
+**/*.log
+playwright-report/
+test-results/

@@ -56,4 +56,3 @@ Images are illustrative Unsplash photos and prices are in USD.
 
 
 
-
